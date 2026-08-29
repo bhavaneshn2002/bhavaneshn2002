@@ -1,16 +1,341 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhavaneshn2002/bhavaneshn2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Bhavanesh Nidamanuri
 
-Here are some ideas to get you started:
+### 🤖 Artificial Intelligence Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Machine Learning • Deep Learning • Generative AI • LLMs • MLOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative-AI-green?style=for-the-badge"/>
+</p>
+
+<p>
+  📍 Paris, France &nbsp; • &nbsp;
+  🎓 MSc Artificial Intelligence @ EPITA
+</p>
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
+
+🎓 Master's student in **Artificial Intelligence at EPITA, Paris**
+
+🤖 Artificial Intelligence Engineer focused on building intelligent and scalable applications.
+
+🧠 Strong foundation in **Machine Learning, Deep Learning, Generative AI and MLOps**.
+
+✨ Exploring **LLMs, RAG systems, AI applications and intelligent automation**.
+
+⚙️ Interested in taking AI systems from **data → model → API → deployment → production**.
+
+🚀 Passionate about applying Artificial Intelligence to solve real-world problems.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🤖 Machine Learning & Deep Learning projects
+- 🧠 Generative AI and LLM applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🎙️ Audio-based Artificial Intelligence
+- 👁️ Computer Vision
+- ⚙️ Production ML pipelines
+- 🚀 Model deployment & MLOps
+- 🔗 AI APIs and intelligent applications
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
+</p>
+
+`Python` `SQL` `Java` `C` `JavaScript`
+
+---
+
+## 🤖 Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Scikit-learn` `XGBoost` `LightGBM` `Random Forest`
+
+`Logistic Regression` `Decision Trees` `Classification`
+
+`Regression` `Clustering` `Feature Engineering`
+
+`Model Evaluation` `Hyperparameter Tuning`
+
+---
+
+## 🧠 Deep Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+`PyTorch` `TensorFlow` `Keras`
+
+`CNN` `LSTM` `Neural Networks`
+
+`Transfer Learning` `Computer Vision`
+
+`Natural Language Processing (NLP)`
+
+---
+
+## ✨ Generative AI & LLMs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`OpenAI API` `LangChain` `RAG`
+
+`Prompt Engineering` `ChromaDB`
+
+`Vector Databases` `LLM Application Development`
+
+---
+
+## ⚙️ MLOps & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux"/>
+</p>
+
+`FastAPI` `Docker` `Apache Airflow`
+
+`ML Pipelines` `CI/CD`
+
+`Model Deployment` `Workflow Automation`
+
+`Git` `GitHub`
+
+---
+
+## ☁️ Data & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,gcp"/>
+</p>
+
+`Pandas` `NumPy` `ETL`
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+`AWS S3` `AWS EC2`
+
+`GCP BigQuery` `GCP Cloud Storage`
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎙️ Audio Forensic Deepfake Detection
+
+**Deep Learning • CNN • BiLSTM**
+
+End-to-end audio forensic pipeline for:
+
+- Deepfake detection
+- Deepfake localization
+- Content verification
+- Speech-to-Text
+- Grad-CAM explainability
+- Fact verification
+- Automated forensic reporting
+
+</td>
+
+<td width="50%">
+
+## 🏠 Advanced House Price Prediction
+
+**Machine Learning • MLOps**
+
+Production-ready ML pipeline using:
+
+- Random Forest
+- XGBoost
+- Feature Engineering
+- Hyperparameter Optimization
+- Model Evaluation
+- Workflow Automation
+- Monitoring
+- Deployment
+
+**📈 18% performance improvement**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ❤️ Real-Time Heart Disease Prediction
+
+**Machine Learning • FastAPI**
+
+Real-time cardiovascular risk prediction using:
+
+- Logistic Regression
+- Random Forest
+- 15+ health indicators
+- FastAPI inference service
+
+**🎯 92.4% accuracy**
+
+**⚡ <200ms inference latency**
+
+</td>
+
+<td width="50%">
+
+## 🦠 COVID-19 Cough Audio Detection
+
+**Deep Learning • Audio Processing**
+
+CNN & LSTM based cough-audio classification system.
+
+- 5,000+ audio samples
+- Log-Mel spectrograms
+- Class imbalance handling
+- CNN + LSTM
+
+**📊 79% F1-score**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 Cognizant Technology Solutions
+
+**Data Analyst | Hyderabad, India**
+
+`May 2024 – Feb 2025`
+
+- Analyzed business datasets for data-driven decision making.
+- Developed KPI dashboards.
+- Optimized data workflows to improve reporting efficiency.
+
+---
+
+### 🏢 Oasis Infobyte
+
+**Data Science Intern | Hyderabad, India**
+
+`Aug 2023 – Jan 2024`
+
+- Built ML models achieving **85%+ accuracy**.
+- Used Logistic Regression and Random Forest.
+- Performed EDA and feature engineering on **10,000+ records**.
+- Reduced model error by **15%**.
+
+---
+
+# 🎓 Education
+
+### 🎓 EPITA – School of Engineering and Computer Science
+
+**Master's in Computer Science – Artificial Intelligence**
+
+📍 Paris, France  
+📅 2025 – Present
+
+---
+
+### 🎓 RGUKT Ongole
+
+**Bachelor's in Computer Science**
+
+📍 Andhra Pradesh, India  
+📅 2020 – 2024
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhavaneshn2002&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavaneshn2002&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhavaneshn2002&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bhavaneshn2002/bhavaneshn2002/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 AI Journey
+
+```text
+                    Artificial Intelligence
+                              │
+               ┌──────────────┴──────────────┐
+               │                             │
+        Machine Learning              Deep Learning
+               │                             │
+       ┌───────┴───────┐             ┌───────┴───────┐
+       │               │             │               │
+   Classical ML    Feature Eng.     CNN             LSTM
+       │                             │               │
+       └──────────────┬──────────────┘               │
+                      │                              │
+                 Generative AI & LLMs               │
+                      │                              │
+                 RAG / LangChain                    │
+                      │                              │
+                 Vector Databases                   │
+                      │                              │
+                      └──────────────┬───────────────┘
+                                     │
+                                  MLOps
+                                     │
+                          FastAPI • Docker
+                          Airflow • CI/CD
+                                     │
+                                     ▼
+                             Production AI 🚀
