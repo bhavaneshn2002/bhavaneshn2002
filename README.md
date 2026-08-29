@@ -279,13 +279,11 @@ CNN & LSTM based cough-audio classification system.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhavaneshn2002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavaneshn2002&layout=compact&theme=tokyonight&hide_border=true"/>
+💻 **21 Public Repositories**  
+🔥 **67 Contributions**  
+🚀 **AI / ML / GenAI Projects**
 
 </p>
-
----
 
 # 🔥 Contribution Streak
 
