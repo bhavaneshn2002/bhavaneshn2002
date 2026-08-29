@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhavanesh Nidamanuri
-
-### 🤖 Artificial Intelligence Engineer
-
-**Machine Learning • Deep Learning • Generative AI • LLMs • MLOps**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;MLOps+%7C+Model+Deployment;Building+Intelligent+Systems+%F0%9F%9A%80" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
